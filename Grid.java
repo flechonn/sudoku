@@ -1,7 +1,7 @@
 public class Grid {
   int Grid[][];
-  static int GRID_SIZE = 9;
-
+  public static int GRID_SIZE = 9;
+  
   void initGrid(int Grid[][]) {
     this.Grid = Grid;
   }
